@@ -1,0 +1,20 @@
+#box{
+  height: 400px;
+  width: 400px;
+  background-color: red;
+  margin: 0 auto;
+}
+#init{
+  margin: auto;
+  padding: 5px;
+  margin: 20px;
+}
+
+#init{
+  background-color: #5154DF;
+  color: #fff;
+}
+
+div{
+  text-align: center;
+}
